@@ -1,0 +1,6 @@
+
+Task 1.
+    Exploratory Data Analysis:
+        - Each Variable vs time
+        - Each Suburb's incidents vs time
+        - Distribution of number of incidents and their type
