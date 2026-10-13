@@ -10,3 +10,22 @@ pip install <package-name>
 pip install -r requirements.txt
 deactivate
 ```
+
+# Folder structure
+```text
+tfcc/
+├── .venv/
+├── data/
+│   ├── beach_monthly.csv
+│   ├── incidents.csv
+│   ├── pricing.csv
+│   └── zData_dictionary.pdf
+├── src/
+│   ├── code.ipynb
+│   ├── requirements.txt
+│   └── zdocs.md
+├── zmisc/
+│   ├── Marking Guide 2026.xlsx
+│   └── UNSW ASOC x Taylor Fry Case Comp.pdf
+└── .gitignore
+```
