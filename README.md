@@ -1,2 +1,3 @@
 # tfcc
-Taylor Fry x Asoc case comp 2026
+Asoc x Taylor Fry case comp 2026
+Team: Goldman Stanley TMT Team
